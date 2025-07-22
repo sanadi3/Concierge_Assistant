@@ -1,0 +1,147 @@
+﻿poi_id,poi_name,venue_id,venue_name,indoor_outdoor,category,keywords,Age,gender,interest,lifestyle,income,51.98351082031882,16.570699841642266
+69,Kids Home,5,5.07 RESIDENTIAL ,indoor,baby_care,childcare;playful;trustworthy;enriching;comfortable,Kids,All,Childcare,Family-oriented,Medium,15.081926295787989,59.710212161395376
+46,Banoon Day Care,8,3.04 Residential ,indoor,baby_care,childcare;structured;trustworthy;supportive;community,Kids,All,Childcare,Family-oriented,Medium,39.26223219126163,22.48782366051168
+39,Banoon Day Care,6,3.05,indoor,baby_care,childcare;educational;supportive;licensed;playful,Kids,All,Childcare,Family-oriented,Medium,31.156270720593287,25.198162888248945
+20,Lasuhran Spa,3,5.08 Residential,indoor,beauty,luxurious;tranquil;wellness;private;rejuvenating,Adults,Female,Beauty,Luxury	,High,29.16635464223741,89.5438715157039
+119,KAFD Metro Station,1,KAFD,outdoor,transportation,futuristic;efficient;iconic;accessible;transit,All,All,Technology,Professional,All,55.788966376950654,79.36857351687033
+118,Aramco,1,KAFD,outdoor,building,energy;innovation;strategic;national;leadership,Adults,All,Energy,Professional,High,21.06232019550914,40.55906227414385
+126,King Abdullah Financial Center,1,KAFD,outdoor,building,planning;financial;urban;strategic;vision,Adults,All,Finance	,Governmental,High,89.25584823461979,21.77824034582237
+131,Muqarnas Tower Parcel 1.09,1,KAFD,outdoor,building,iconic;modern;high-rise;business;elegant,Adults,All,Finance	,Professional,High,58.64722594223411,75.83296720438798
+140,The Steps,1,KAFD,outdoor,building,walkable;urban;social;scenic;modern,All,All,Services	,Active,All,32.333427343914806,60.2371558212157
+281,PIF,1,KAFD,outdoor,building,investment;sovereign;strategic;global;leadership,Adults,All,Finance,Professional,High,77.27321037853594,31.6679402061675
+604,Tadawul Tower,25,1.19,indoor,building,finance;exchange;iconic;secure;modern,Adults,All,Finance,Professional,High,81.26161484373561,42.32667994980465
+168,Roland Berger,1,KAFD,outdoor,corporate_office;company;,strategic;executive;advisory;innovative;prestigious,Adults,All,Finance,Professional,High,30.860377253212558,16.515375730162393
+169,Saudi Venture Capital Company,1,KAFD,outdoor,corporate_office;company;,innovative;financial;supportive;entrepreneurial;strategic,Adults,All,Finance,Professional,High,18.04179442173391,49.43307434078407
+170,Real Estate Registry,1,KAFD,outdoor,corporate_office;company;,official;regulatory;secure;transactional;digital,Adults,All,Services	,Professional,All,49.68222903053149,57.484547391808334
+171,Fund Of Funds,1,KAFD,outdoor,corporate_office;company;,institutional;catalytic;financial;strategic;empowering,Adults,All,Finance,Professional,High,90.83235370248372,52.271780724569524
+191,Hectare Company,1,KAFD,outdoor,corporate_office;company;,sustainable;innovative;agritech;strategic;impactful,Adults,All,Services	,Professional,High,26.965530336471033,24.269015761081317
+193,Tools & Solutions,1,KAFD,outdoor,corporate_office;company;,digital;consulting;innovative;strategic;enterprise,Adults,All,Technology,Professional,High,10.799587204292987,80.77643147028449
+172,Local Content & Government Procurement,1,KAFD,outdoor,corporate_office;company;,strategic;policy;local;governmental;formal,Adults,All,Services	,Professional,High,54.67451513488867,60.35700440307686
+175,Events Investment Fund,1,KAFD,outdoor,corporate_office;company;,entertainment;investment;events;strategic;public,Adults,All,Art	,Professional,High,75.88968487980036,85.73544135233259
+177,Soudah Development Co,1,KAFD,outdoor,corporate_office;company;,sustainable;tourism;nature;strategy;pif,Adults,All,Environment,Visionary,High,34.161432364438205,96.8402159610693
+43,Construction Office,8,3.04 Residential ,indoor,corporate_office;company;,construction;practical;project;site;utility,Adults,All,Engineering,On-site,Medium,37.765373041511495,29.19512862521522
+197,Alibaba Cloud,1,KAFD,outdoor,corporate_office;company;,cloud;ai;technology;enterprise;global,Adults,All,Tech,Innovative,High,15.380812216478978,28.083953638833087
+107,Saudi Group for Research and Media,1,KAFD,outdoor,corporate_office;company;,media;publishing;content;strategic;influence,Adults,All,Media,Professional,High,35.75974783896246,41.56738250452946
+166,Alvarez and Marsal,1,KAFD,outdoor,corporate_office;company;,consulting;strategy;turnaround;finance;advisory,Adults,All,Consulting,Executive,High,96.3798433145836,56.14424233638242
+167,Alkhair Capital,1,KAFD,outdoor,corporate_office;company;,finance;islamic;investments;wealth;capital,Adults,All,Finance,Affluent,High,74.41876921334506,46.64125638805255
+44,Event Company,8,3.04 Residential ,indoor,corporate_office;company;,planning;logistics;creative;coordination;support,Adults,All,Events,Project-based,Medium,88.47477093219864,49.123350659720266
+174,ROSHN,1,KAFD,outdoor,corporate_office;company;,realestate;sustainability;communities;planning;residential,Adults,All,Urbanism,Visionary,High,37.45938966561552,16.59263393741459
+540,Saudi Industrial Development Fund,1,KAFD,outdoor,corporate_office;company;,industrial;finance;national;development;strategic,Adults,All,Industry,Governmental,High,22.600356796976698,71.76821251299414
+173,Roche,1,KAFD,outdoor,corporate_office;company;,healthcare;innovation;diagnostics;pharma;research,Adults,All,LifeSciences,Scientific,High,82.81632231973222,98.50589328164726
+196,Valuable Capital financial company,1,KAFD,outdoor,corporate_office;company;,trading;digital;investment;finance;innovative,Adults,All,Fintech,Investor,High,63.84308381964972,30.949410735248502
+190,eWTP Arabia Capital,1,KAFD,outdoor,corporate_office;company;,venture;tech;investment;startup;crossborder,Adults,All,Startups,Entrepreneurial,High,62.002493687598914,47.258645911718105
+194,Bim Company,1,KAFD,outdoor,corporate_office;company;,construction;design;modeling;engineering;urban,Adults,All,Engineering,Technical,Medium-High,81.32492355417044,87.890506942862
+195,Advanced Communications &Electronic,1,KAFD,outdoor,corporate_office;company;,electronics;communications;security;technology;systems,Adults,All,ICT,Strategic,High,79.48552809650063,58.78130205015715
+595,Al Juraid,3,5.08 Residential,indoor,corporate_office;company;,contracting;logistics;residential;infrastructure;project,Adults,All,RealEstate,Operational,Medium,62.23865741521015,87.37478355600248
+601,Bank Riyadh,25,1.19,indoor,financial_service;company;,banking;corporate;capital;secure;established,Adults,All,Banking,Professional,High,29.807739092636286,87.91801366092173
+602,SNB Bank,25,1.19,indoor,financial_service;company;,finance;institutional;premium;strategic;wealth,Adults,All,Finance,Executive,High,46.71099063537092,93.05060156564949
+593,Tamkeen Academy,8,3.04 Residential ,indoor,education,education;training;development;professional;learning,Adults,All,Skills,Ambitious,Medium,42.11204490382726,9.679601405325512
+188,Sports Boulevard,1,KAFD,outdoor,fitness,wellness;urban;active;visionary;public,All,All,Sports,Healthy,All,49.53055440469559,46.52873410958519
+189,Tourism  Development Fund,1,KAFD,outdoor,entertainment,tourism;investment;public;vision2030;strategic,Adults,All,Travel,Strategic,High,16.417489282580352,71.7552515228227
+248,5.09 (A.03),1,KAFD,outdoor,entertainment,flexible;public;events;urban;open,All,All,Culture,Social,All,12.428862794021914,37.792550319671946
+313,Khalil 2.05,14,2.05 Offices,indoor,corporate_office,office;commercial;indoor;professional,Adults,All,Office,Urban,Medium,27.73985325164203,43.87375275980934
+314,Khalil2,14,2.05 Offices,indoor,corporate_office,office;commercial;indoor;professional,Adults,All,Office,Urban,Medium,25.408724085598333,10.005908658295931
+187,King Salman Park,1,KAFD,outdoor,entertainment,green;urban;planning;recreation;landmark,All,All,Environment,Sustainable,All,90.55818013219945,86.45296046530515
+309,2.09.B4,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,98.5455707686316,30.624228275139167
+310,2.09.b4.1,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,27.706134376659126,17.652098479879868
+307,2.09.b3,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,84.84330212755589,82.75878328493586
+308,2.09.b3.1,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,16.76070451779355,98.20294005108255
+305,2.09.b2,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,59.43214723903679,99.14336683347821
+303,2.09.b1,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,36.08270143448675,21.86888080474468
+304,2.09.B1.1,38,2.09 Parking,indoor,parking,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,9.933294199526252,93.82476294610515
+539,Tagpod,1,KAFD,outdoor,fitness,fitness;private;smart;outdoor;wellness,Adults,All,Health,Active,Medium-High,32.227211624993416,37.976407893405735
+541,1.10 Khalil,41,1.11,indoor,fitness,lounge;coffee;social;trendy;indoor,Adults,All,Dining,Urban,Medium,28.423159237886157,71.19687069218082
+306,2.09.b2.1,38,2.09 Parking,indoor,entertainment,parking;indoor;access;secure;zonal,Adults,All,Commuting,Functional,All,27.47223131752904,71.19547740803785
+12,SIWAR FOODS,2,5.08 Offices,both,entertainment,modern;healthy;convenient;stylish;gourmet,Adults,All,Food,Professional,High,28.69831362913645,67.83812711741713
+141,Gharam Restaurant,1,KAFD,outdoor,food_beverage,levantine;scenic;elegant;alfresco;flavorful,Adults,All,Food,Professional,High,86.39986779224459,88.3574187985645
+223,CR√ÉÀÜME London,1,KAFD,outdoor,food_beverage,desserts;cookies;coffee;minimalist;trendy;teens,All,All,Food,Trendy,Medium,94.20458547385998,42.358851427529515
+73,Monopoly,1,KAFD,outdoor,food_beverage,italian;finedining;elegant;authentic;luxury,All,All,Food,Trendy,High,87.6067117309502,29.283478235688595
+77,LE PERROQUET,1,KAFD,outdoor,food_beverage,french;bistro;modern;casual;gourmet,All,All,Food,Cosmopolitan,High,17.087424248405274,14.200107361487879
+93,Sushisamba,1,KAFD,outdoor,food_beverage,fusion;sushi;vibrant;terrace;cultural,All,All,Food,Trendy,High,50.05412750891189,11.754892520687479
+581,KUURU,1,KAFD,outdoor,food_beverage,nikkei;fusion;innovative;homegrown;culinary;seafood;,All,All,Food,Trendy,High,94.23336032615204,3.7299011650744225
+71,Black Tap,1,KAFD,outdoor,food_beverage,burgers;milkshakes;energetic;craft;urban,All,All,Food,Urban,Medium,60.95875891304171,24.998341183977082
+207,Urth Café,1,KAFD,outdoor,food_beverage,organic;coffee;tea;serene;quality,Adults,All,Food,Health-conscious,Medium,81.41083135991919,85.50836371203374
+582,Good Food,1,KAFD,outdoor,food_beverage,wholesome;cozy;inviting;comfort;casual,Adults,All,Food,Casual,Medium,33.82398310927638,21.24599645959262
+136,Veloce Café,1,KAFD,outdoor,food_beverage,stylish;modern;coffee;relaxed;quality,Adults,All,Food,Modern,Medium,81.38336367789938,45.12948417987181
+33,Siwar Foods,6,3.05,indoor,food_beverage,healthy;quick;modern;efficient,All,All,Food,Modern,High,52.09555161347002,75.13555427197966
+63,siwar foods,5,5.07 RESIDENTIAL ,indoor,food_beverage,convenient;residential;fresh;balanced;accessible,All,All,Food,Family-oriented,High,70.28944780156684,44.56140377471071
+85,Chalmont,1,KAFD,outdoor,food_beverage,luxury;gourmet;elegant;indulgent;boutique,All,All,Food,Modern,High,96.49894917942487,24.390453145370707
+88,EL Camino Taco Bar Restaurant,1,KAFD,outdoor,food_beverage,lively;bold;social;flavorful;festive,All,All,Food,Active,Medium,20.443130721192063,78.78419953644706
+89,La Rustica Restaurant,1,KAFD,outdoor,food_beverage,rustic;authentic;italian;relaxed;cozy,All,All,Food,Family-oriented,Medium,14.408704038401355,1.2128416727581735
+90,Starbucks,1,KAFD,outdoor,food_beverage,familiar;practical;social;coffee;modern,Adults,All,Food,Trendy,Medium,42.688236659773466,1.9512099515649866
+91,A.O.K Kitchen,1,KAFD,outdoor,food_beverage,wellness;elegant;trendy;inclusive;gourmet,Adults,All,Food,Health-conscious,High,33.713814668772976,39.59550960413824
+135,Spout Café,1,KAFD,outdoor,food_beverage,minimalist;artisan;stylish;creative;espresso,Adults,All,Food,Professional,Medium,38.981760370300606,77.49942865006354
+143,CR√ÉÀÜME London,1,KAFD,outdoor,food_beverage,trendy;café;dessert;cookie;,Teens,All,Food,Social,Medium,26.35399586913901,73.97726890344848
+84,Pistrina,1,KAFD,outdoor,food_beverage,artisanal;elegant;fresh;european;gourmet,All,All,Food,Modern,High,75.84558178400212,14.218967884847924
+128,Mr Chow,1,KAFD,outdoor,food_beverage,luxurious;iconic;chinese;upscale;theatrical,Adults,All,Food,Affluent,High,64.20637931558849,97.49927963840868
+82,Tale Caf√É¬©,1,KAFD,outdoor,food_beverage,cozy;thoughtful;boutique;creative;calm,Adults,All,Food,Casual,Medium,27.22497891899332,19.980978723545302
+83,Il Baretto,1,KAFD,outdoor,food_beverage,italian;sophisticated;premium;stylish;leisure,All,All,Food,Modern,High,54.94901587151983,36.68040317597596
+163,Dnkin,1,KAFD,outdoor,food_beverage,casual;familiar;quick;affordable;energetic,Teens,All,Food,On-the-go,Medium,39.794466841667635,5.550554442096234
+237,Triasta cafe,1,KAFD,outdoor,food_beverage,trendy;youthful;espresso;social;chic,Young Adults,All,Food,Social,Medium,20.398112329369166,63.93712546835652
+273,Il Baretto,2,5.08 Offices,indoor,food_beverage,italian;sophisticated;premium;stylish;leisure,All,All,Food,Modern,High,53.95639042805221,61.21073532037186
+489,Draft Caf√É¬©,1,KAFD,outdoor,food_beverage,minimalist;calm;creative;artisan;outdoor,Adults,All,Food,Modern,High,50.101209377404594,17.675913795803503
+490,Joe & The Juice,1,KAFD,outdoor,food_beverage,energetic;trendy;healthy;casual;urban,Young Adults,All,Food,Active,Medium,1.4588709946419793,52.44517052199919
+491,Pistrina Bakery,1,KAFD,outdoor,food_beverage,gourmet;artisan;european;elegant;refined,Adults,All,Food,Modern,High,8.87126022798543,76.54130598531746
+538,Zuma,1,KAFD,outdoor,food_beverage,luxury;japanese;upscale;iconic;refined,Adults,All,Food,Affluent,High,41.437785952229504,57.46551583884625
+537,Lagate,3,5.08 Residential,indoor,food_beverage,local;cozy;casual;friendly;relaxed,All,All,Food,Family-oriented,Medium,49.10030761232473,87.14399691623191
+324,Jones the grocer,10,5.07+5.08 parkings,indoor,food_beverage,gourmet;quiet;artisan;deli;understated,All,All,Food,Active,Medium,60.744211031298214,61.188411806293615
+275,Maui,10,5.07+5.08 parkings,indoor,food_beverage,tropical;healthy;colorful;light;modern,Young Adults,All,Food,Health-conscious,Medium,39.172708532601774,26.674987752285098
+6,Coffee Spout,4,5.07 OFFICES,indoor,food_beverage,functional;office;efficient;quick;minimal,Adults,All,Food,Professional,High,94.00437219606458,25.477083903558178
+76,Trieste,1,KAFD,outdoor,food_beverage,italian;elegant;espresso;consistent;quiet,Adults,All,Food,Professional,High,84.70995865703676,3.307380290420448
+105,Jones the Grocer,1,KAFD,outdoor,food_beverage,gourmet;retail;stylish;contemporary;fusion,Adults,All,Food,Affluent,High,79.16651704822988,65.8042768506023
+586,12 Cups,1,KAFD,outdoor,food_beverage,specialty;minimalist;cool;local;precision,Adults,All,Food,Creative,Medium,57.77595597426224,97.71441722946474
+38,Health Club,6,3.05,indoor,fitness,fitness;wellness;modern;clean;active,Adults,All,Fitness,Active,Medium-High,41.73789447665255,90.73363123591724
+533,Four Spa,5,5.07 RESIDENTIAL ,indoor,beauty,spa;relaxing;luxury;female;wellness,Adults,Female,Beauty,Tranquil,High,78.83475785457894,23.833564766141283
+326,Khalil,3,5.08 Residential,indoor,healthcare,lounge;healthy;organic;social;residential,Adults,All,Wellness,Social,High,14.55693229835277,69.00958567165203
+318,White pharmacy,10,5.07+5.08 parkings,indoor,healthcare,pharmacy;accessible;essential;bilingual;efficient,Adults,All,Health,Practical,Medium,39.08271407653801,59.90005593280749
+8,Priory Healthcare,5,5.07 RESIDENTIAL ,indoor,healthcare,mentalhealth;private;clinical;confidential;supportive,Adults,All,MentalHealth,Supportive,High,62.691164520123024,63.7277553423726
+554,KAFD Grand Mosque,1,KAFD,outdoor,healthcare,spiritual;modern;tranquil;architectural;inclusive,All,All,Religion,Devout,All,19.458740766373612,68.97635796064881
+35,Prayer Hall,6,3.05,indoor,prayer_room,spiritual;modern;tranquil;architectural;inclusive,All,All,Religion,Devout,High,36.327136925739744,4.880290940006359
+45,Reception SIDF&Tamken&Baby care,8,3.04 Residential ,indoor,prayer_room,welcoming;supportive;organized;family-friendly;administrative,Adults,All,Family,Family-oriented,Medium,47.927901777013616,98.22255254096663
+492,Emirates NBD,1,KAFD,outdoor,financial_services,banking;professional;secure;efficient;accessible,Adults,All,Finance,Professional,High,94.37333410577124,38.0685962520539
+185,Conference Centre,1,KAFD,outdoor,public_service,events;diplomatic;professional;business;networking,Adults,All,Business,Executive,High,97.4211431312865,21.84633214744729
+162,Alahli bank,1,KAFD,outdoor,public_service,trusted;accessible;secure;bilingual;efficient,Adults,All,Finance,Professional,Medium-High,77.69372633372735,72.12141680741574
+125,National Development Fund,1,KAFD,outdoor,financial_service,policy;finance;strategic;governmental;development,Adults,All,Economics,Institutional,High,31.948264965670372,59.33167708934035
+524,Parking pay machine-B4,73,A.01,indoor,parking,digital;quick;indoor;practical;reliable,Adults,All,Transport,Practical,Medium,13.234431871348674,57.10115288224236
+523,Parking Pay Machine-B3,73,A.01,indoor,parking,efficient;simple;automated;bilingual;reliable,Adults,All,Commuting,Routine,Medium,1.349710021714586,97.63974134293362
+155,Area 1 Parking (Building 1.04,1,KAFD,outdoor,parking,parking;secure;accessible;functional;support,Adults,All,Mobility,Commuter,Medium,48.40630539825213,50.15276754664702
+145,Alvarez & Marsal Middle East Limited,1,KAFD,outdoor,parking,consulting;restructuring;strategy;advisory;finance,Adults,All,Business,Executive,High,70.31236730221394,18.000853758050138
+204,Parking,1,KAFD,outdoor,parking,parking;accessible;outdoor;secure;functional,Adults,All,Transport,Commuter,All,80.83384047395852,95.93095368925668
+27,Parking Machine,10,5.07+5.08 parkings,indoor,parking,digital;efficient;automated;parking;bilingual,Adults,All,Mobility,Practical,All,22.25623930220866,63.84207491485939
+521,Parking Pay Machine-B1,73,A.01,indoor,parking,payment;indoor;quick;user-friendly;reliable,Adults,All,Transport,Commuter,All,88.17696171481306,45.93195022686992
+123,National Debt Management Center,1,KAFD,outdoor,public_service,debt;finance;policy;public;strategic,Adults,All,Economics,Institutional,High,22.029943633326635,94.71190343097226
+440,4.08-GF-Office reception,54,4.08,indoor,public_service,reception;office;service;welcoming;indoor,Adults,All,Business,Corporate,Medium-High,42.65062845171873,67.18040256186833
+182,Riyadh Bank,1,KAFD,outdoor,public_service,banking;corporate;trusted;local;accessible,Adults,All,Finance,Professional,Medium-High,13.842082981101798,3.449508943132029
+146,Ministry of Culture,1,KAFD,outdoor,financial_service,culture;creative;policy;heritage;public,Adults,All,Arts,Visionary,High,58.65932503208197,73.93097311977174
+138,King Abdullah Financial Center,1,KAFD,outdoor,public_service,governance;planning;strategic;urban;development,Adults,All,Urbanism,Governmental,High,6.531645734521874,71.05090331221304
+280,Financial Plaza,1,KAFD,outdoor,public_service,plaza;finance;open;networking;urban,Adults,All,Business,Social,High,21.806028931614645,57.788823026993356
+186,AMC cinema,1,KAFD,outdoor,public_service,cinema;luxury;entertainment;film;outdoor,Adults,All,Movies,Leisure,Medium-High,55.811730055183695,59.21398231761769
+184,KAFD Helipad,1,KAFD,outdoor,public_service,helipad;aviation;vip;executive;access,Adults,All,Travel,Executive,High,57.545205105890034,43.22947753771004
+106,SIDF Academy,1,KAFD,outdoor,public_service,training;finance;development;academy;innovation,Adults,All,Education,Professional,Medium-High,51.33650162306079,96.72775106273181
+606,Waiting Lobby,25,1.19,indoor,public_service,lobby;comfortable;business;indoor;waiting,Adults,All,Hospitality,Corporate,High,98.50740818172066,10.365702596389248
+1,Nouf Alsudairi abayas,5,5.07 RESIDENTIAL ,indoor,public_service,elegant;modest;luxury;fashion;cultural,Adults,Female,Fashion,Stylish,High,39.65431052823752,85.589358138464
+279,Toby's Estate,1,KAFD,outdoor,retail,artisanal;trendy;relaxed;urban;quality,Adults,All,Food,Professional,High,81.55853545219946,33.671837615084115
+276,Zaadna Line,16,2.05 Parking,indoor,retail,convenient;efficient;practical;accessible;quick,Adults,All,Convenience,Commuter,Medium,10.692068083737967,13.786151775309499
+37,Little Flora,6,3.05,indoor,retail,floral;elegant;charming;gifts;decorative,Adults,All,decor,Aesthetic,Medium,61.34399899484713,69.7908112580818
+34,Lagate,6,3.05,indoor,retail,convenience;everyday;quick;essential;urban,Adults,All,Convenience,Busy,Medium,68.91102079350436,47.958045480687026
+156,Trading Tower,1,KAFD,outdoor,retail,corporate;landmark;modern;elite;commercial,Adults,All,Business,Executive,High,93.02118735489044,7.7361238566480015
+164,Saudi Downtown Company,1,KAFD,outdoor,retail,urban;development;strategic;planning;mixed-use,Adults,All,Urbanism,Visionary,High,57.867830469847824,68.66239839789499
+7,Ameenah Oud,5,5.07 RESIDENTIAL ,indoor,retail,fragrance;luxury;oriental;boutique;aromatic,Adults,All,Perfume,Elegant,High,45.61401690498239,31.25638548223618
+101,Kunooz,1,KAFD,outdoor,retail,curated;luxury;cultural;decor;stylish,Adults,All,Art,Sophisticated,High,45.06763855761707,65.37222381741742
+277,Bloom,1,KAFD,outdoor,retail,floral;elegant;gift;outdoor;boutique,Adults,All,Gifting,Stylish,Medium-High,45.477868367705334,16.742208574049
+598,Bianca,3,5.08 Residential,indoor,retail,fashion;minimalist;chic;boutique;residential,Adults,Female,Fashion,Elegant,Medium-High,37.99719395278887,37.65683894108857
+10,Male WC-1st-5.07,5,5.07 RESIDENTIAL ,indoor,retail,clean;accessible;private;functional;indoor,All,Male,Hygiene,Residential,All,57.06329419264553,19.325949450879623
+36,Male Toilet-1st-3.05,6,3.05,indoor,restroom,convenient;hygienic;discrete;indoor;practical,All,Male,Hygiene,Professional,All,63.70587062050174,51.938967174219314
+286,Toilet,2,5.08 Offices,indoor,restroom,office;hygienic;accessible;clean;basic,All,All,Hygiene,Professional,All,44.87909572679226,81.82702420570868
+328,toilet Male & Female,1,KAFD,outdoor,restroom,public;shared;outdoor;functional;necessary,All,All,Hygiene,Public,All,6.6007423774867835,66.62593667599965
+329,toilet Male & Female,1,KAFD,outdoor,restroom,public;shared;outdoor;functional;necessary,All,All,Hygiene,Public,All,56.10931018873744,49.823540150956255
+28,Male Toilet-entrance-building-5.08,10,5.07+5.08 parkings,indoor,restroom,entryway;accessible;indoor;clean;efficient,All,Male,Hygiene,Commuter,All,83.11146391722424,50.96161554150467
+9,Female WC-1st-5.07,5,5.07 RESIDENTIAL ,indoor,restroom,female;clean;indoor;private;residential,All,Female,Hygiene,Residential,All,82.41778907383993,62.844519964312155
+496,KAFD Grand Mosque Female WC,1,KAFD,outdoor,restroom,female;mosque;clean;religious;outdoor,All,Female,Hygiene,Public,All,16.380167975964483,26.127163896630226
+4,5.07-GF Male WC,5,5.07 RESIDENTIAL ,indoor,restroom,male;groundfloor;clean;routine;indoor,All,Male,Hygiene,Residential,All,11.40215524969403,27.800974100958573
+495,KAFD Grand Mosque Male WC,1,KAFD,outdoor,restroom,male;mosque;clean;prayer;accessible,All,Male,Hygiene,Public,All,40.37823704583545,49.718784078981344
+596,Male Toilet,3,5.08 Residential,indoor,restroom,male;residential;clean;simple;indoor,All,Male,Hygiene,Residential,All,48.261049424076155,86.0925949089178
+599,Female Toilet,25,1.19,indoor,restroom,female;office;clean;modern;indoor,All,Female,Hygiene,Residential,All,23.16480416534191,47.580768527056286
+600,Male Toilet,25,1.19,indoor,restroom,male;residential;clean;simple;indoor,All,Male,Hygiene,Residential,All,50.159559521482215,37.80951588643712
+29,Female Toilet-entrance-Building-5.08,10,5.07+5.08 parkings,indoor,restroom,female;entrance;accessible;indoor;routine,All,Female,Hygiene,Public,All,66.82198387150788,22.765707792374904
+,,,,,restroom,,,,,,,14.709372941780973,89.74725349395803
