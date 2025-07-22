@@ -4,9 +4,7 @@ WITH DEBUG STATEMENTS
 """
 
 from math import sqrt
-import os
 import logging
-import json
 import re
 from typing import List, Dict, Optional, Tuple, Type
 from langchain.tools import BaseTool
@@ -36,13 +34,13 @@ class NaturalPOISearchEngine:
                 persist_directory=self.chroma_path,
                 embedding_function=self.embedding_function
             )
-            logger.info(f"✓ Successfully connected to Chroma database at {self.chroma_path}")
+            logger.info(f"Successfully connected to Chroma database at {self.chroma_path}")
         except Exception as e:
-            logger.error(f"✗ Failed to connect to Chroma: {e}")
+            logger.error(f"Failed to connect to Chroma: {e}")
 
     def _parse_poi_data(self, doc_content: str) -> Dict:
         """
-        Parse POI data from the key-value format stored in Chroma
+        Parse data to be in a dictionary
         """
         logger.debug(f"=== Parsing POI data ===")
         logger.debug(f"Raw content (first 200 chars): {doc_content[:200]}...")
@@ -178,11 +176,11 @@ class NaturalPOISearchEngine:
         logger.warning(f"No match found for '{name}'")
         return None
     
-    # from poi1 to poi2
+    # from poi1 to poi2. takes two poi names
     def calculate_distance(self, poi1_name: str, poi2_name: str) -> Optional[float]:
         logger.debug(f"=== Calculating distance from '{poi1_name}' to '{poi2_name}' ===")
         
-        # get names from inputted agent fields
+        # get validated names from inputted fields
         poi1 = self.get_poi_by_name(poi1_name)
         poi2 = self.get_poi_by_name(poi2_name)
 
@@ -306,7 +304,7 @@ class GetDistanceTool(BaseTool):
             else:
                 response = f"I couldn't calculate the distance between {poi_name_1} and {poi_name_2}."
             
-            logger.warning(f"✗ Returning error: {response}")
+            logger.warning(f"Returning error: {response}")
             return response
             
         distance_km = distance / 1000
@@ -364,7 +362,7 @@ class FindNearestTool(BaseTool):
             else:
                 response = f"I couldn't find any {query} near {reference_poi} in KAFD."
             
-            logger.warning(f"✗ No results found: {response}")
+            logger.warning(f"No results found: {response}")
             return response
             
         response = f"Here are the nearest {query} locations to {reference_poi}:\n\n"
@@ -401,7 +399,7 @@ class NaturalSearchTool(BaseTool):
         
         query_lower = query.lower()
         
-        # Pattern 1: Distance queries
+        # Identifying distance queries using regex approach
         distance_patterns = [
             r"distance (?:from|between) (.+?) (?:to|and) (.+)",
             r"how far (?:is it )?(?:from )?(.+?) to (.+)",

@@ -174,11 +174,11 @@ with gr.Blocks(title="🏢 KAFD Concierge Assistant", theme=gr.themes.Soft(), cs
         submit = gr.Button("Send", variant="primary", scale=1)
         clear = gr.Button("🗑️ Clear Chat", scale=1)
     
-    # Examples to help users get started
+    # Example queries
     gr.Examples(
         examples=[
             "What restaurants are available in KAFD?",
-            "How far is it from the Conference Center to KAFD Academy?",
+            "How far is it from the Conference Center to the KAFD Metro Station?",
             "Tell me about the Prayer Hall",
             "ما هي المطاعم المتوفرة؟",
             "كم المسافة من مركز المؤتمرات إلى أكاديمية كافد؟",
