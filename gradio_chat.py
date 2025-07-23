@@ -222,7 +222,7 @@ if __name__ == "__main__":
     logger.info("Launching Gradio interface...")
     try:
         demo.launch(
-            share=False,  # Set to True if you want a public link
+            share=True,  # Set to True if you want a public link
             server_name="0.0.0.0",  # Allow external connections
             server_port=7860,       # Default Gradio port
             show_error=True,        # Show errors in the interface

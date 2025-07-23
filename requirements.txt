@@ -1,4 +1,11 @@
+gradio
+python-dotenv
 langchain
-chromadb # Vector storage
-pytest
-boto3
+langchain-openai
+langchain-community
+langchain-groq
+langchain-ollama
+chromadb
+pydantic
+ollama
+

@@ -327,24 +327,6 @@ class NearestSearchInput(BaseModel):
     query: str = Field(description="What to search for (e.g., 'coffee', 'restaurant', 'ATM')")
     limit: int = Field(default=3, description="Number of results to return")
 
-    @field_validator('limit', mode='before')
-    @classmethod
-    def validate_limit(cls, v):
-        """Convert string to int and ensure it's within reasonable bounds"""
-        logger.debug(f"Validating limit value: {v} (type: {type(v)})")
-        if isinstance(v, str):
-            try:
-                v = int(v)
-            except ValueError:
-                logger.warning(f"Could not convert limit '{v}' to int, using default 3")
-                return 3  # default fallback
-
-        if not isinstance(v, int) or v < 1:
-            return 3
-        if v > 10:
-            return 10
-        return v
-
 class FindNearestTool(BaseTool):
     name: str = "find_nearest"
     description: str = "Find the nearest places matching a query (coffee, restaurant, etc.) to a reference location."
